@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoLite2.Web", "TodoLite2.Web\TodoLite2.Web.csproj", "{9B8F7909-67B1-4F4E-88ED-EEF969D2587D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoLite2.Query", "TodoLite2.Query\TodoLite2.Query.csproj", "{2D17CD0D-60D5-4BA4-9A1C-C0DC511B78D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B8F7909-67B1-4F4E-88ED-EEF969D2587D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B8F7909-67B1-4F4E-88ED-EEF969D2587D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B8F7909-67B1-4F4E-88ED-EEF969D2587D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B8F7909-67B1-4F4E-88ED-EEF969D2587D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D17CD0D-60D5-4BA4-9A1C-C0DC511B78D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D17CD0D-60D5-4BA4-9A1C-C0DC511B78D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D17CD0D-60D5-4BA4-9A1C-C0DC511B78D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D17CD0D-60D5-4BA4-9A1C-C0DC511B78D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

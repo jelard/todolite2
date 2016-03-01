@@ -1,0 +1,6 @@
+c:\users\jmacalino\documents\visual studio 2015\Projects\TodoLite2\TodoLite2.Query\bin\Debug\TodoLite2.Query.dll
+c:\users\jmacalino\documents\visual studio 2015\Projects\TodoLite2\TodoLite2.Query\bin\Debug\TodoLite2.Query.pdb
+c:\users\jmacalino\documents\visual studio 2015\Projects\TodoLite2\TodoLite2.Query\bin\Debug\MediatR.dll
+c:\users\jmacalino\documents\visual studio 2015\Projects\TodoLite2\TodoLite2.Query\bin\Debug\MediatR.xml
+c:\users\jmacalino\documents\visual studio 2015\Projects\TodoLite2\TodoLite2.Query\obj\Debug\TodoLite2.Query.dll
+c:\users\jmacalino\documents\visual studio 2015\Projects\TodoLite2\TodoLite2.Query\obj\Debug\TodoLite2.Query.pdb

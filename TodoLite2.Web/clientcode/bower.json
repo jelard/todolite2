@@ -1,0 +1,22 @@
+{
+  "name": "todo",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Jelard Macalino <jmacalino@epitecgroup.com>"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
