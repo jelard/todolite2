@@ -122,7 +122,10 @@
     <Content Include="clientcode\.idea\misc.xml" />
     <Content Include="clientcode\.idea\modules.xml" />
     <Content Include="clientcode\.idea\workspace.xml" />
+    <Content Include="clientcode\fonts\fontawesome-webfont.svg" />
     <Content Include="clientcode\Index.html" />
+    <Content Include="clientcode\js\app.js" />
+    <Content Include="clientcode\js\lib.js" />
     <Content Include="Global.asax" />
     <Content Include="Web.config" />
   </ItemGroup>
@@ -141,6 +144,11 @@
     <Content Include="clientcode\.idea\.name" />
     <Content Include="clientcode\.idea\clientcode.iml" />
     <Content Include="clientcode\package.json" />
+    <Content Include="clientcode\fonts\fontawesome-webfont.eot" />
+    <Content Include="clientcode\fonts\fontawesome-webfont.ttf" />
+    <Content Include="clientcode\fonts\fontawesome-webfont.woff" />
+    <Content Include="clientcode\fonts\fontawesome-webfont.woff2" />
+    <Content Include="clientcode\fonts\FontAwesome.otf" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

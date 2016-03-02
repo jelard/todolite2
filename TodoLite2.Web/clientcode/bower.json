@@ -17,6 +17,18 @@
     "tests"
   ],
   "dependencies": {
-    "bootstrap": "^3.3.6"
+    "bootstrap": "^3.3.6",
+    "angular": "^1.5.0",
+    "font-awesome": "fontawesome#^4.5.0",
+    "angular-route": "^1.5.0"
+  },
+  "overrides": {
+    "bootstrap": {
+      "main": [
+        "dist/js/bootstrap.js",
+        "dist/css/bootstrap.css",
+        "less/bootstrap.less"
+      ]
+    }
   }
 }
